@@ -2,7 +2,8 @@ title:            aaaa459.github.io
 description:      Thoughts on machine learning and other topics
 url:              "https://aaaa459.github.io"
 baseurl:          ""
-github_usename:   wesselb
+github_usename:   aaaa459
+markdown: redcarpet
 
 # Google Analytics
 google_analytics: UA-174249558-2
