@@ -1,6 +1,8 @@
-  
-theme: jekyll-theme-cayman
-title: aaaa459
-description: The free and open source solution for automated video capture, management, and distribution at scale.
+title:            aaaa459.github.io
+description:      Thoughts on machine learning and other topics
+url:              "https://aaaa459.github.io"
+baseurl:          ""
+github_usename:   wesselb
+
 # Google Analytics
 google_analytics: UA-174249558-2
